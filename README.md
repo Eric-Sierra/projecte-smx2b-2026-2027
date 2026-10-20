@@ -77,7 +77,7 @@ Els nostres objectius són (poden ser modificats):
 
 - Aplicar coneixements de hardware, software, xarxes i programació.
 
-- Documentar tot el procés de desenvolupament i les proves realitzades.
+- Documentar tot el procés de desenvolupament i les proves realitzades .
 
 ### MetroCount
 
