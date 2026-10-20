@@ -57,7 +57,7 @@ Aquestes funcionalitats seran:
 
 La nostra idea és que les tres funcionalitats es puguin utilitzar amb un mateix dispositiu hologràfic, sense necessitat de construir-ne un de diferent per a cada funció.
 
-# Objectius del projecte 
+##### Objectius del projecte 
 
 L'objectiu principal és crear un sistema hologràfic interactiu que combini diferents coneixements que hem après durant el cicle de Sistemes Microinformatics i Xarxes locals. (SMX)
 
